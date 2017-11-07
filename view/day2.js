@@ -156,7 +156,7 @@ class Weather extends Component{
     });
 
     return(
-      <View>
+      <View style={{ flex: 1 }}>
         <Swiper 
         style={styles.wrapper} 
         showsButtons={false}
@@ -189,6 +189,9 @@ export default class extends Component{
 }
 
 const styles = StyleSheet.create({
+  weatherContainer: {
+    flex: 1,
+  },
   pageContainer:{
     backgroundColor:"transparent",
     position: "absolute",
