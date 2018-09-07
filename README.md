@@ -144,7 +144,7 @@ Reference:https://github.com/naoufal/react-native-touch-id
 ![day19](https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/day19.gif)
 
 ## Day 20
-Sigle page Reminder 
+Single page Reminder 
 
 ![day20](https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/day20.gif)
 
